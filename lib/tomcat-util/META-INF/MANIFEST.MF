@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Apache Ant 1.5
+Class-Path: commons-logging.jar log4j.jar log4j-core.jar mx4j.jar
+
